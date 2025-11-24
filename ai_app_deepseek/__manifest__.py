@@ -16,6 +16,6 @@
     },
     'application': False,
     'author': 'XueFeng.Su',
-    "license": "AGPL-3",
+    "license": "Other proprietary",
     "auto_install": True,
 }
