@@ -40,7 +40,6 @@
 
 ## 作者与支持
 
-- **作者**: XueFeng.Su
 - **GitHub**: [https://github.com/cd-feng](https://github.com/cd-feng)
 
 ## 许可证

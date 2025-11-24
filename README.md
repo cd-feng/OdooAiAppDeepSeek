@@ -40,7 +40,6 @@ For example, click the "Ask AI" icon in the upper right corner of the Odoo main 
 
 ## Author & Support
 
-- **Author**: XueFeng.Su
 - **GitHub**: [https://github.com/cd-feng](https://github.com/cd-feng)
 
 ## License
